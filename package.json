@@ -1,0 +1,14 @@
+{
+  "name": "galvanizing7959",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "m98 Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ m98 เว็บคาสิโนออนไลน์ คาสิโนที่แตกง่ายที่สุด บริการเกมสล็อต 24 ชม.",
+  "keywords": [
+    "m98 Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ m98 เว็บคาสิโนออนไลน์ คาสิโนที่แตกง่ายที่สุด บริการเกมสล็อต 24 ชม."
+  ],
+  "repository": "https://github.com/yorkinyellow/galvanizing7959",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
